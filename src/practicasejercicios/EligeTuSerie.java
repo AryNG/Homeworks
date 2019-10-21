@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EligeTuSerie {
 
 	public static void main(String[] args) {
-		// Valor inicial, valor final, incremento - decremento
+		// Valor inicial, valor final, incremento
      byte Inicio=0;
      byte Final=0;
      byte Inc=0;
@@ -25,4 +25,4 @@ public class EligeTuSerie {
 	}
 
 }
-//need to make to the other way baaaack fuckkkkk
+
